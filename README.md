@@ -1,3 +1,3 @@
 # portfolio.io
 
- https://mahalakshmimc21.github.io/MahaLakshmiportfolio.io/
+ https://mahalakshmimc21.github.io/MahaLakshmiportfolio/
